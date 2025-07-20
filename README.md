@@ -18,8 +18,8 @@ Jestem początkującym programistą aplikacji biznesowych, kończącym studia in
 **Backend**  
 `Node.js` · `Express` · `Java` · `C#` · `PHP`
 
-**Bazy danych**  
-`MySQL` · `MongoDB (podstawy)`
+**Bazy danych i API**  
+`MySQL` · `Supabse (PostgreSQL)`
 
 **Pozostałe**  
 `Git` · `GitHub` · `Figma` · `REST API` · `Postman`
