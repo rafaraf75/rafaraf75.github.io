@@ -4,13 +4,13 @@
 
 ---
 
-## 👨‍💻 O mnie
+## O mnie
 
 Jestem początkującym programistą aplikacji biznesowych, kończącym studia inżynierskie na kierunku Informatyka. Wcześniej przez 30 lat pracowałem jako mechanik samochodowy — w tym 12 lat u autoryzowanego dealera Audi/VW. Od 2023 roku aktywnie rozwijam się w IT i mam na koncie ponad 20 projektów na GitHubie.
 
 ---
 
-## 🛠️ Technologie i narzędzia
+## 🛠Technologie i narzędzia
 
 **Frontend**  
 `HTML5` · `CSS3` · `JavaScript` · `React` · `Bootstrap`
@@ -26,7 +26,7 @@ Jestem początkującym programistą aplikacji biznesowych, kończącym studia in
 
 ---
 
-## 💻 Wybrane projekty
+## Wybrane projekty
 
 🔹 [**projekt-sklepu**](https://github.com/rafaraf75/projekt-sklepu)  
 Frontendowy sklep internetowy z dynamicznym koszykiem, filtrowaniem i obsługą produktów. HTML/CSS + JavaScript.  
@@ -49,7 +49,7 @@ Pozwala użytkownikom rezerwować terminy online oraz przeglądać statusy napra
 
 ---
 
-## 👔 Doświadczenie zawodowe
+## Doświadczenie zawodowe
 
 **Webproexpert.com** *(2023–obecnie)*  
 Tworzenie i utrzymanie stron oraz prostych aplikacji webowych.
@@ -67,7 +67,7 @@ Strona hodowli kotów bengalskich.
 
 ---
 
-## 🎓 Edukacja
+## Edukacja
 
 **Wyższa Szkoła Biznesu – National Louis University w Nowym Sączu**  
 *Inżynier (Inż.), Informatyka*  
@@ -76,10 +76,10 @@ luty 2022 – lipiec 2025 *(ukończone, obrona: wrzesień 2025)*
 
 ---
 
-## 📫 Kontakt
+## Kontakt
 
-📧 rafallabunski@gmail.com  
-💼 [LinkedIn – Rafał Łabuński](https://www.linkedin.com/in/rafał-łabuński-300324206)  
+ rafallabunski@gmail.com  
+ [LinkedIn – Rafał Łabuński](https://www.linkedin.com/in/rafał-łabuński-300324206)  
 
 ---
 
